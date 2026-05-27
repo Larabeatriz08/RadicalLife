@@ -2,19 +2,15 @@
 
 Landing page inspirada na cultura skate e streetwear, desenvolvida com uma estética brutalista, visual moderno e animações interativas.
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Streetwear+%26+Skate+Acessível;Drop+Novo+Toda+Sexta-feira;Atitude%2C+Estilo+e+Liberdade&color=2140FF" />
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=2140FF&center=true&vCenter=true&random=false&width=900&lines=Streetwear+%26+Skate+Acessível;Drop+Novo+Toda+Sexta-feira;Atitude%2C+Estilo+e+Liberdade" />
 
 
 ## ✦ Tecnologias
-
 - HTML5
 - CSS3
 
 
 ## ✦ Funcionalidades
-
 - Hero section interativa
 - Cards animados
 - Marquee infinito
@@ -35,6 +31,6 @@ O projeto busca unir:
 - identidade forte de marca
 
 ## ✦ Made By
-Developed with <img src="https://img.icons8.com/ios-filled/50/ffffff/coffee.png" width="16"/> and code by **Lara Lima** and **Jonas Esteves**
+Developed with <img src="https://img.icons8.com/ios-filled/50/ffffff/coffee.png" width="16"/> and code by <a href="https://github.com/larabeatriz08" target="_blank">Lara Lima</a> and <a href="https://github.com/JonasEstevess" target="_blank">Jonas Esteves</a>
 
   
