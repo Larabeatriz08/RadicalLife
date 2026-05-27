@@ -2,7 +2,9 @@
 
 Landing page inspirada na cultura skate e streetwear, desenvolvida com uma estética brutalista, visual moderno e animações interativas.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=2140FF&center=true&vCenter=true&random=false&width=900&lines=Streetwear+%26+Skate+Acessível;Drop+Novo+Toda+Sexta-feira;Atitude%2C+Estilo+e+Liberdade" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&pause=1000&center=true&vCenter=true&random=false&width=900&height=60&color=2140FF&lines=Streetwear+%26+Skate+Acessível;Drop+Novo+Toda+Sexta-feira;Atitude%2C+Estilo+e+Liberdade" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&pause=1000&center=true&vCenter=true&random=false&width=900&height=60&color=FF1478&lines=Streetwear+%26+Skate+Acessível;Drop+Novo+Toda+Sexta-feira;Atitude%2C+Estilo+e+Liberdade" />
 
 
 ## ✦ Tecnologias
