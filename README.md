@@ -1,1 +1,44 @@
-# RadicalLife
+# RADICAL LIFE 
+
+Landing page inspirada na cultura skate e streetwear, desenvolvida com uma estética brutalista, visual moderno e animações interativas.
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Streetwear+%26+Skate+Acessível;Drop+Novo+Toda+Sexta-feira;Atitude%2C+Estilo+e+Liberdade&color=2140FF" />
+</h1>
+
+<p align="center">
+  <span style="color:#2140FF;">RADICAL</span>
+  <span style="color:#FF1478;"> LIFE</span>
+</p>
+
+## ✦ Tecnologias
+
+- HTML5
+- CSS3
+
+
+## ✦ Funcionalidades
+
+- Hero section interativa
+- Cards animados
+- Marquee infinito
+- Produtos em destaque
+- Lookbook streetwear
+- Hover effects
+
+
+## ✦ Objetivo do Projeto
+
+O objetivo da Radical Life é criar uma landing page moderna para uma marca de skate e streetwear acessível, transmitindo identidade urbana, atitude e autenticidade através de um design impactante e interativo.
+
+O projeto busca unir:
+- estética streetwear
+- experiência visual moderna
+- responsividade
+- animações fluidas
+- identidade forte de marca
+
+## ✦ Made By
+Developed with <img src="https://img.icons8.com/ios-filled/50/ffffff/coffee.png" width="16"/> and code by **Lara Lima** and **Jonas Esteves**
+
+  
