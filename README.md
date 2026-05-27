@@ -6,10 +6,6 @@ Landing page inspirada na cultura skate e streetwear, desenvolvida com uma esté
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Streetwear+%26+Skate+Acessível;Drop+Novo+Toda+Sexta-feira;Atitude%2C+Estilo+e+Liberdade&color=2140FF" />
 </h1>
 
-<p align="center">
-  <span style="color:#2140FF;">RADICAL</span>
-  <span style="color:#FF1478;"> LIFE</span>
-</p>
 
 ## ✦ Tecnologias
 
