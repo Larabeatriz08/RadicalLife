@@ -32,6 +32,11 @@ O projeto busca unir:
 - animações fluidas
 - identidade forte de marca
 
+
+# Deploy Online
+
+[Visitar projeto](https://radical-life.vercel.app/)  
+
 ## ✦ Made By
 Developed with <img src="https://img.icons8.com/ios-filled/50/ffffff/coffee.png" width="16"/> and code by <a href="https://github.com/larabeatriz08" target="_blank">Lara Lima</a> and <a href="https://github.com/JonasEstevess" target="_blank">Jonas Esteves</a>
 
